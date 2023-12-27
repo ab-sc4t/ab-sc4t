@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ab-sc4t
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS and Node JS and lil bit of DS
+- 🌱 I’m currently learning ReactJS and Node JS
 - 💞️ I’m looking to collaborate on FrontEnd Projects for now
 
 <!---
