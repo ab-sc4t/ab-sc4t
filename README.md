@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ab-sc4t
+- 👋 Hi, I’m Ayush Bansal
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN stack.
 - 💞️ I’m looking to collaborate on FullStack projects.
