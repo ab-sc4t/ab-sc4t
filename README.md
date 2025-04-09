@@ -2,7 +2,7 @@
 I am currently a third-year B.Tech student majoring in Computer Science and Engineering at Jaypee Institute of Information Technology, Noida. 
 
 
-I have a strong passion for full-stack development and a keen interest in startups. My journey in tech has provided me with a solid foundation in Web2 technologies, and I am proficient in the complete MERN stack. I am also in the process of learning TypeScript and Next.js to further expand my skill set. As I continue to grow in the tech field, I am excited to explore the emerging opportunities in Web3.
+I have a strong passion for full-stack development and a keen interest in startups. My journey in tech has provided me with a solid foundation in Web2 technologies, and I am proficient in the complete MERN stack and Next.js. I am also in the process of learning DevOps to further expand my skill set. As I continue to grow in the tech field, I am excited to explore the emerging opportunities in Web3.
 
 
 
